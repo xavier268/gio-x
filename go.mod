@@ -10,9 +10,9 @@ require (
 	github.com/go-toast/toast v0.0.0-20190211030409-01e6764cf0a4
 	github.com/godbus/dbus/v5 v5.0.6
 	github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d // indirect
-	github.com/yuin/goldmark v1.4.0
+	github.com/yuin/goldmark v1.4.13
 	golang.org/x/exp v0.0.0-20210722180016-6781d3edade3
-	golang.org/x/image v0.0.0-20210628002857-a66eb6448b8d
-	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c
-	golang.org/x/text v0.3.7
+	golang.org/x/image v0.5.0
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f
+	golang.org/x/text v0.7.0
 )
